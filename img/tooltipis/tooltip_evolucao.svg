@@ -1,0 +1,24 @@
+<svg width="200" height="250" viewBox="0 0 200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="tooltip_evolucao" clip-path="url(#clip0_1_302)">
+<rect width="200" height="250" fill="white"/>
+<rect id="quadro_fundo" width="200" height="250" fill="#070F1A" fill-opacity="0.97"/>
+<g id="quadro_2">
+<rect x="10" y="50" width="180" height="190" rx="5" fill="url(#paint0_linear_1_302)"/>
+<rect x="10.5" y="50.5" width="179" height="189" rx="4.5" stroke="#59B7C8" stroke-opacity="0.2"/>
+</g>
+<g id="quadro_1">
+<rect x="10" y="10" width="180" height="30" rx="5" fill="#070F1A"/>
+<rect x="10.5" y="10.5" width="179" height="29" rx="4.5" stroke="#59B7C8" stroke-opacity="0.2"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_302" x1="10" y1="50" x2="78.9984" y2="274.166" gradientUnits="userSpaceOnUse">
+<stop stop-color="#070F1A" stop-opacity="0.5"/>
+<stop offset="0.5" stop-color="#070F1A" stop-opacity="0.5"/>
+<stop offset="1" stop-color="#070F1A" stop-opacity="0.3"/>
+</linearGradient>
+<clipPath id="clip0_1_302">
+<rect width="200" height="250" fill="white"/>
+</clipPath>
+</defs>
+</svg>

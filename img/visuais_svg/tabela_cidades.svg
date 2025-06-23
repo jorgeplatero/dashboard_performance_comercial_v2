@@ -1,0 +1,14 @@
+<svg width='260' height='65' viewBox='0 0 260 65' fill='none' xmlns='http://www.w3.org/2000/svg'>
+	<g id='tabela_cidades'>
+		<text id='texto_cidade' fill='white' xml:space='preserve' style='white-space: pre' font-family='Segoe UI' font-size='12' letter-spacing='0em'>
+			<tspan x='30' y='35.9688'>Minas Gerais</tspan>
+		</text>
+		<text id='texto_faturamento' fill='#FFFF00' xml:space='preserve' style='white-space: pre' font-family='Segoe UI' font-size='12' letter-spacing='0em'>
+			<tspan x='171' y='26.9688'>R$ 50,00</tspan>
+		</text>
+		<text id='texto_margem' fill='#FF0000' xml:space='preserve' style='white-space: pre' font-family='Segoe UI' font-size='12' letter-spacing='0em'>
+			<tspan x='171' y='49.9688'>00,00%</tspan>
+		</text>
+		<line id='linha' x1='129.5' y1='56' x2='129.5' y2='7.98959' stroke='white' stroke-opacity='0.1'/>
+	</g>
+</svg>
